@@ -15,8 +15,8 @@ layers:
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
-  - A
-  - Z
+  - Q
+  - W
   - E
   - R
   - T
@@ -28,7 +28,7 @@ layers:
   - P
   - {t: \, s: '|'}
   - $$mdi:apple-keyboard-caps$$
-  - Q
+  - A
   - S
   - D
   - F
@@ -38,17 +38,17 @@ layers:
   - J
   - K
   - L
-  - M
+  - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
-  - W
+  - Z
   - X
   - C
   - V
   - B
   - $$mdi:arrow-right-bold$$
   - N
-  - {t: ;, s: ':'}
+  - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
